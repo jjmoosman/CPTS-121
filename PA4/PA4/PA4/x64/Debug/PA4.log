@@ -1,0 +1,13 @@
+﻿  craps.c
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(43,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(46,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(59,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(64,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(68,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(70,31): warning C4020: 'get_choice': too many actual parameters
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(125,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(130,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(247,1): warning C4029: declared formal parameter list different from definition
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(243): warning C4715: 'adjust_bank_balance': not all control paths return a value
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\PA4\craps.c(271): warning C4715: 'get_choice': not all control paths return a value
+  PA4.vcxproj -> E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA4\PA4\x64\Debug\PA4.exe
