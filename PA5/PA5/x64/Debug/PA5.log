@@ -1,0 +1,12 @@
+﻿  game.c
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA5\PA5\game.c(48,14): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA5\PA5\game.c(48,9): warning C4024: 'scanf': different types for formal and actual parameter 1
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA5\PA5\game.c(49,3): warning C4013: 'get_dice_roll' undefined; assuming extern returning int
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA5\PA5\game.c(40,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA5\PA5\game.c(95,14): warning C4552: '+': result of expression not used
+  main.c
+  Generating Code...
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA5\PA5\game.c(134): warning C4715: 'get_choice': not all control paths return a value
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA5\PA5\game.c(100): warning C4716: 'roll_die': must return a value
+game.obj : error LNK2019: unresolved external symbol get_dice_roll referenced in function play_game
+E:\A WSU school\Semester 1\CPT_S 121\programming\PA\PA5\x64\Debug\PA5.exe : fatal error LNK1120: 1 unresolved externals
