@@ -1,0 +1,6 @@
+﻿  equations.c
+  main.c
+E:\Work Files\Wsu Comp Sci\Moos_Justin_PA2\Moos_Justin_PA2\Moos_Justin_PA2\main.c(45,84): warning C4474: 'printf' : too many arguments passed for format string
+E:\Work Files\Wsu Comp Sci\Moos_Justin_PA2\Moos_Justin_PA2\Moos_Justin_PA2\main.c(45,84): message : placeholders and their parameters expect 1 variadic arguments, but 4 were provided
+  Generating Code...
+  Moos_Justin_PA2.vcxproj -> E:\Work Files\Wsu Comp Sci\Moos_Justin_PA2\Moos_Justin_PA2\x64\Debug\Moos_Justin_PA2.exe
