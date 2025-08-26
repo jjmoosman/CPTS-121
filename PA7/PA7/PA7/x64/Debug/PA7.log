@@ -1,0 +1,7 @@
+﻿  poker.c
+D:\CPTS-121\Homework assignments\PA7\PA7\poker.c(27,17): warning C4101: 'temp2': unreferenced local variable
+D:\CPTS-121\Homework assignments\PA7\PA7\poker.c(26,15): warning C4101: 'temp': unreferenced local variable
+D:\CPTS-121\Homework assignments\PA7\PA7\poker.c(137): warning C4715: 'play_again': not all control paths return a value
+D:\CPTS-121\Homework assignments\PA7\PA7\poker.c(469): warning C4715: 'match_check': not all control paths return a value
+D:\CPTS-121\Homework assignments\PA7\PA7\poker.c(603): warning C4715: 'pairs_replace': not all control paths return a value
+  PA7.vcxproj -> D:\CPTS-121\Homework assignments\PA7\x64\Debug\PA7.exe
