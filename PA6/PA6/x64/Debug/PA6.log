@@ -1,0 +1,28 @@
+﻿  battleship.c
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(245,60): warning C4020: 'hit_or_miss': too many actual parameters
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(267,13): warning C4013: 'check_hit_or_miss_bot' undefined; assuming extern returning int
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(272,64): warning C4020: 'hit_or_miss_bot': too many actual parameters
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(33,24): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(33,49): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(615,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(621,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(627,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(645,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(651,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(657,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(674,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(680,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(686,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(703,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(709,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(715,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(813,1): warning C4029: declared formal parameter list different from definition
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(865,1): warning C4029: declared formal parameter list different from definition
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(1077,20): warning C4473: 'fprintf' : not enough arguments passed for format string
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(1077,20): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(1077,20): message : the missing variadic argument 2 is required by format string '% A'
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(353): warning C4715: 'play_again': not all control paths return a value
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(420): warning C4715: 'get_dir_man': not all control paths return a value
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(486): warning C4715: 'get_start_pt': not all control paths return a value
+C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\PA6\battleship.c(727): warning C4715: 'check_ships_man': not all control paths return a value
+  PA6.vcxproj -> C:\Users\lmoos\Downloads\PA6_almost_done\PA6 (1)\PA6\x64\Debug\PA6.exe
